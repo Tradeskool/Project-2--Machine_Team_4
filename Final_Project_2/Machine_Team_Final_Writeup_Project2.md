@@ -213,7 +213,7 @@ _**Note:** TPOT confirms Naïve Bayes as best model; see the Exported TPOT Pipel
 
 <br>
 
-_**Note:** See the PowerPoint Presentaion here..._ [link.](./BA545-MachineTeam4_Project2_Presentation_042820_final.ppt)
+_**Note:** See the PowerPoint Presentaion here..._ [link.](./BA545-MachineTeam4_Project2_Presentation_FINAL.pdf)
 
 <br>
 <br>
