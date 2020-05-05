@@ -122,8 +122,6 @@ _**Note:** See the Initial Data Models here..._ [link.](./Initial_Data_Models_Fi
 **Resuts:** Final models (NB, SVM, XGB)
 <br> <img src="./images/Model_4_results.PNG">
 
-_**Note:** See the Exported TPOT Pipeline here..._ [link.](./tpot_exported_pipeline.py)
-
 
 
 # Part V: Insights/Deployment
